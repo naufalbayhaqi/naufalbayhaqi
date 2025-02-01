@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naufal</h1>
-<h3 align="center">Coding Enthusiast</h3>
+<h3 align="center">Coding Enthusiast, I guess</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalbayhaqi&label=Profile%20views&color=0e75b6&style=flat" alt="naufalbayhaqi" /> </p>
 
